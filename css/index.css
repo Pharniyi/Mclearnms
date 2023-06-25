@@ -1,0 +1,18 @@
+#hero{
+    padding: 60px 0;
+}
+
+#navbarSupportedContent{
+    justify-content: space-between;
+}
+ul, ol{
+    list-style: none;
+    text-decoration-line: none;
+}
+h1{
+    color:darkblue;
+}
+.row{
+    display: flex;
+    align-items: center;
+}
